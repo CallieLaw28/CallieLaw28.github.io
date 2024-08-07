@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/projectdesign.avif
 title: "ProjectDesign"
 date: 2024-08-06
 labels:
