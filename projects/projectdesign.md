@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projectdesign.avif
+image: img/projectdesign2.avif
 title: "ProjectDesign"
 date: 2024-08-06
 labels:
