@@ -28,12 +28,12 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Mac0s", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
-      "institution": "Sullivan University,Louisville, KY",
+      "institution": "Sullivan University, Louisville, KY",
       "area": "Information Science of Technology (expected Winter, 2024)",
       "studyType": "A.S",
       "startDate": "2023-01-03",
