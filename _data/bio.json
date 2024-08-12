@@ -28,7 +28,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": ["Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
